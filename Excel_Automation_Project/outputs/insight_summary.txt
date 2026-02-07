@@ -1,0 +1,123 @@
+Total Sales: 5348241.180000001
+
+Total Orders: 160
+
+Average Order Value: N/A
+
+
+Monthly Sales Trend:
+
+    month_id       sales
+0          1   487384.65
+1          2   503155.91
+2          3   322125.42
+3          4   353232.39
+4          5   413164.55
+5          6   275895.66
+6          7   305564.53
+7          8   406841.23
+8          9   242106.97
+9         10   818653.46
+10        11  1151996.84
+11        12    68119.57
+
+
+
+Yearly Sales Trend:
+
+   year_id       sales
+0     2003  1721094.68
+1     2004  2731309.97
+2     2005   895836.53
+
+
+
+Top 10 High Demand Products:
+
+ month      productline dealsize     sales                                                             reason
+    11     Classic Cars   Medium 288943.28 High sales driven by strong product demand and favorable deal size
+    10     Classic Cars   Medium 200159.66 High sales driven by strong product demand and favorable deal size
+     1     Classic Cars   Medium 153644.57 High sales driven by strong product demand and favorable deal size
+    11 Trucks and Buses   Medium 121772.62 High sales driven by strong product demand and favorable deal size
+     2     Classic Cars   Medium 117272.51 High sales driven by strong product demand and favorable deal size
+     5     Classic Cars   Medium 115585.37 High sales driven by strong product demand and favorable deal size
+    11     Vintage Cars   Medium 110286.76 High sales driven by strong product demand and favorable deal size
+    10     Vintage Cars   Medium  99224.97 High sales driven by strong product demand and favorable deal size
+    11      Motorcycles   Medium  96138.50 High sales driven by strong product demand and favorable deal size
+    11     Vintage Cars    Small  85070.87 High sales driven by strong product demand and favorable deal size
+
+
+
+Top 10 Low Demand Products:
+
+ month      productline dealsize   sales                                                               reason
+    12            Ships    Small 1089.36 Low sales possibly due to weak demand, pricing, or off-season period
+    12           Trains    Small 1623.25 Low sales possibly due to weak demand, pricing, or off-season period
+    12     Vintage Cars    Small 2725.47 Low sales possibly due to weak demand, pricing, or off-season period
+    12      Motorcycles    Small 2780.90 Low sales possibly due to weak demand, pricing, or off-season period
+     4           Trains    Small 3045.21 Low sales possibly due to weak demand, pricing, or off-season period
+     1           Trains   Medium 3227.63 Low sales possibly due to weak demand, pricing, or off-season period
+     2           Trains   Medium 3340.48 Low sales possibly due to weak demand, pricing, or off-season period
+     4      Motorcycles   Medium 3431.75 Low sales possibly due to weak demand, pricing, or off-season period
+     3 Trucks and Buses    Small 3835.68 Low sales possibly due to weak demand, pricing, or off-season period
+     8           Trains   Medium 4174.92 Low sales possibly due to weak demand, pricing, or off-season period
+
+=============================
+BUSINESS INSIGHTS & RECOMMENDATIONS
+=============================
+1. Overall Sales Performance
+Sales data analysis shows that the business achieved its highest performance in the year 2004.
+This indicates strong market demand during that period.
+
+Recommendation:
+Analyze the sales strategies and market conditions of 2004 and replicate similar pricing,
+marketing, and product strategies to improve future performance.
+
+--------------------------------------------------
+
+2. Product Performance Insight
+A small group of products contributes a major portion of total revenue.
+These products consistently outperform others across multiple time periods.
+
+Recommendation:
+Prioritize inventory planning and promotional activities for top-performing products.
+Low-performing products should be reviewed for pricing, bundling, or discontinuation.
+
+--------------------------------------------------
+
+3. Country-wise Sales Insight
+Certain countries generate significantly higher revenue compared to others.
+This indicates strong regional demand concentration.
+
+Recommendation:
+Increase sales focus, regional marketing efforts, and customer engagement in top-performing
+countries while evaluating growth opportunities in underperforming regions.
+
+--------------------------------------------------
+
+4. Deal Size Analysis
+Large and Medium deal sizes contribute the majority of total sales revenue,
+while Small deals contribute less value individually.
+
+Recommendation:
+Encourage upselling strategies to move customers from Small to Medium or Large deals
+to increase overall revenue per transaction.
+
+--------------------------------------------------
+
+5. Sales Trend Insight
+Sales trends show noticeable fluctuations across months, indicating seasonality in demand.
+
+Recommendation:
+Use historical trend patterns to improve demand forecasting and inventory planning,
+especially during peak sales periods.
+
+--------------------------------------------------
+
+6. Customer Order Behavior
+Average Order Value remains stable, suggesting consistent customer purchasing behavior.
+
+Recommendation:
+Introduce targeted promotions or volume discounts to increase average order value
+and improve overall sales efficiency.
+

@@ -1,0 +1,69 @@
+KPI Name: Total Sales Revenue
+Formula: Sum of Sales
+Business Meaning:
+Represents the overall revenue generated during the selected time period.
+Used by management to evaluate overall business performance.
+
+--------------------------------------------------
+
+KPI Name: Total Orders
+Formula: Count of unique Order Numbers
+Business Meaning:
+Shows the total number of customer orders placed.
+Helps assess demand volume and customer activity.
+
+--------------------------------------------------
+
+KPI Name: Total Quantity Sold
+Formula: Sum of Quantity Ordered
+Business Meaning:
+Indicates the total number of units sold.
+Useful for inventory planning and supply chain decisions.
+
+--------------------------------------------------
+
+KPI Name: Average Order Value (AOV)
+Formula: Total Sales / Total Orders
+Business Meaning:
+Measures the average revenue generated per order.
+Helps evaluate pricing strategy and customer purchasing behavior.
+
+--------------------------------------------------
+
+KPI Name: Top Products by Sales
+Formula: Group by Product Code and sum Sales
+Business Meaning:
+Identifies high-performing products contributing the most revenue.
+Helps management focus on profitable products.
+
+--------------------------------------------------
+
+KPI Name: Top Countries by Revenue
+Formula: Group by Country and sum Sales
+Business Meaning:
+Shows which geographical regions generate the highest revenue.
+Supports regional sales strategy and market expansion planning.
+
+--------------------------------------------------
+
+KPI Name: Sales Trend (Yearly / Monthly)
+Formula: Aggregate Sales by Year and Month
+Business Meaning:
+Tracks sales growth or decline over time.
+Helps in forecasting and seasonal demand analysis.
+
+--------------------------------------------------
+
+KPI Name: Deal Size Contribution
+Formula: Sales by Deal Size category (Small, Medium, Large)
+Business Meaning:
+Analyzes revenue contribution by deal size.
+Supports decision-making for pricing and sales targeting strategies.
+
+--------------------------------------------------
+
+KPI Name: Best Performing Year
+Formula: Year with highest total Sales
+Business Meaning:
+Identifies the most successful business year.
+Used for performance comparison and future planning.
